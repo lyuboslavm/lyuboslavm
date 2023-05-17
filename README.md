@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/lyuboslav-mihalchev-2a3300232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lyuboslav-mihalchev-2a3300232/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/lyuboslav-mihalchev-2a3300232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lyuboslav-mihalchev-2a3300232" height="30" width="40" /></a>
 <a href="https://discord.gg/l.mihalchev#0736" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="l.mihalchev#0736" height="30" width="40" /></a>
 </p>
 
